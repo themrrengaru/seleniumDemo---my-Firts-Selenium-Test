@@ -1,4 +1,6 @@
-const { Builder, By, Key } = require("selenium-webdriver");
+//testing with vartiable parameters
+
+/*const { Builder, By, Key } = require("selenium-webdriver");
 const ltCapabilities = require("../capabilities");
 var should = require("chai").should();
 
@@ -53,4 +55,4 @@ describe("add another todo tests", function () {
       await driver.quit();
     });
   });
-});
+});*/
